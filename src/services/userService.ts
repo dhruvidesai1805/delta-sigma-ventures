@@ -5,8 +5,9 @@ const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
 const USE_MOCK_API = import.meta.env.VITE_USE_MOCK_API === 'true';
 
 const INITIAL_USERS: User[] = [
-    { id: '1', firstName: 'John', lastName: 'Doe', email: 'joindoe123@gmail.com', phone: '123-456-7890' },
-    { id: '2', firstName: 'Jane', lastName: 'Smith', email: 'janesmith456@gmailo.com', phone: '987-654-3210' },
+    { id: '1', firstName: 'John', lastName: 'Doe', email: 'joindoe123@gmail.com', phone: '9263965896' },
+    { id: '2', firstName: 'Jane', lastName: 'Smith', email: 'janesmith456@gmailo.com', phone: '9263965898' },
+    { id: '3', firstName: 'karli', lastName: 'smith', email: 'karli@gmail.com', phone: '9263965895' },
 ];
 
 const getLocalUsers = (): User[] => {
