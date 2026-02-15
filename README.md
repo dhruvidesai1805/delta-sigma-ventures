@@ -32,8 +32,8 @@ A simple, extensible User Management application built with React, TypeScript, V
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd react-crud-app
+   git clone https://github.com/dhruvidesai1805/delta-sigma-ventures
+   cd delta-sigma-ventures
    ```
 
 2. Install dependencies:
