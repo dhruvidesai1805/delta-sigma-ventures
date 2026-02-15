@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "joindoe123@gmail.com",
+      "phone": "9385274154",
+      "id": "Y7MpesA"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "janesmith456@gmailo.com",
+      "phone": "9265612345",
+      "id": "Y7MpesB"
+    }
+  ]
+}
